@@ -3,7 +3,7 @@
 Fengbo Ma, Zixin Rao, Xiaoting Li, Zhetao Chen, Hongyue Sun, Yiping Zhao, Xianyan Chen, Zhen Xiang  
 University of Georgia, Athens, GA, USA
 
-[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-2f6f4f?style=for-the-badge)](#resources)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-2f6f4f?style=for-the-badge)](https://arxiv.org/abs/2604.22861)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FengboMa/IntrAgent)
 [![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-Dataset-ffcc4d?style=for-the-badge)](https://huggingface.co/datasets/IntrAgent/IntraBench)
 
@@ -150,7 +150,7 @@ The paper attributes these gains to two main design choices: hierarchy-aware sec
 
 ## Resources
 
-- Paper: coming soon
+- Paper: https://arxiv.org/abs/2604.22861
 - GitHub: https://github.com/FengboMa/IntrAgent
 - Hugging Face: https://huggingface.co/datasets/IntrAgent/IntraBench
 
